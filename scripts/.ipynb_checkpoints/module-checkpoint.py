@@ -180,6 +180,10 @@ def create_vector2(data):
     pre_vec(count)
     print(c1)
 
+def create_vector3():
+    return c1, c2, c3, c4, c5
+
+
 
 def clear_vec():
     c1.clear()
